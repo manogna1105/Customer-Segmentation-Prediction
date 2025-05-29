@@ -1,1 +1,1 @@
-# Customer-Segmentation-Prediction
+# Customer-Segmentation & Prediction
